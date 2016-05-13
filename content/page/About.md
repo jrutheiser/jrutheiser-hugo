@@ -4,5 +4,5 @@ title = "About"
 
 +++
 
-Coming soon...
+Hi. I'm Jonathan Rutheiser.
 

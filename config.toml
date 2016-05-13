@@ -1,6 +1,6 @@
 baseurl = "http://jrutheiser.com/"
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "Jonathan Rutheiser"
 theme = "hugo-lithium-theme"
 googleAnalytics = "UA-77448120-1"
 
