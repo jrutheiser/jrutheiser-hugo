@@ -4,5 +4,5 @@ title = "About"
 
 +++
 
-Hi. I'm Jonathan Rutheiser.
+Jonathan Rutheiser is a front end developer in Reno, Nevada.
 
