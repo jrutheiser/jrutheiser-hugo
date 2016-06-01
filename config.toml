@@ -19,6 +19,8 @@ googleAnalytics = "UA-77448120-1"
     url = "https://twitter.com/jrutheiser"
 
 [params]
+    description = "Front end developer in Reno, Nevada."
+
     [params.logo]
     url = "logo.png"
     width = 50
